@@ -1,0 +1,10 @@
+.home-container{
+    background-color: tomato;
+    min-height: 100vh;
+}
+
+.home-heading{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
